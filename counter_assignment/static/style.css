@@ -1,0 +1,29 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    margin-top: 100px;
+    width: 800px;
+    height: 500px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: lightcyan;
+    border: solid 3px black;
+    border-radius: 5px;
+}
+
+.content {
+    margin-top: 80px;
+    background-color: lightcyan;
+}
+
+form {
+    display: flex;
+}
+
+button {
+    margin-left: 5px;
+}
